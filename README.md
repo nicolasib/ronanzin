@@ -5,6 +5,7 @@ Esta api fornece o elenco completo de todos os times de futebol de Minas Gerais.
 #### Começando
 Basta clonar este repositório, instalar as dependencias e ligar o servidor.
 >Todos estes comandos devem ser executados na pasta raíz.
+
 ```npm install``` para instalar as dependências.
 ```node src/index.js``` para iniciar o servidor.
 
